@@ -1,27 +1,30 @@
 .u-section-1 {background-image: none}
-.u-section-1 .u-sheet-1 {min-height: 530px}
-.u-section-1 .u-layout-wrap-1 {margin: 60px auto 60px 0}
-.u-section-1 .u-layout-cell-1 {min-height: 369px}
+.u-section-1 .u-sheet-1 {min-height: 420px}
+.u-section-1 .u-layout-wrap-1 {margin: 25px 0 58px}
+.u-section-1 .u-layout-cell-1 {min-height: 338px}
 .u-section-1 .u-container-layout-1 {padding: 30px 60px}
 .u-section-1 .u-text-1 {margin: 0}
 .u-section-1 .u-text-2 {margin: 20px 0 0}
-.u-section-1 .u-image-1 {min-height: 369px; background-image: url("images/200418DanJohnson_JPB004.jpg"); background-position: 50% 50%}
+.u-section-1 .u-image-1 {min-height: 338px; background-image: url("images/200418DanJohnson_JPB004.jpg"); background-position: 50% 50%}
 .u-section-1 .u-container-layout-2 {padding: 30px} 
 
 @media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 436px}
 .u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
-.u-section-1 .u-layout-cell-1 {min-height: 304px}
-.u-section-1 .u-image-1 {min-height: 304px} }
+.u-section-1 .u-layout-cell-1 {min-height: 279px}
+.u-section-1 .u-image-1 {min-height: 279px} }
 
 @media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 334px}
-.u-section-1 .u-layout-cell-1 {min-height: 100px}
+.u-section-1 .u-layout-cell-1 {min-height: 233px}
 .u-section-1 .u-container-layout-1 {padding-left: 30px; padding-right: 30px}
-.u-section-1 .u-image-1 {min-height: 233px} }
+.u-section-1 .u-image-1 {min-height: 214px} }
 
 @media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 251px}
+.u-section-1 .u-layout-cell-1 {min-height: 100px}
 .u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
-.u-section-1 .u-image-1 {min-height: 807px}
+.u-section-1 .u-image-1 {min-height: 741px}
 .u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
 
-@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 158px}
-.u-section-1 .u-image-1 {min-height: 330px} }
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 832px}
+.u-section-1 .u-layout-wrap-1 {margin-bottom: 0; margin-right: initial; margin-left: initial}
+.u-section-1 .u-layout-cell-1 {min-height: 507px}
+.u-section-1 .u-image-1 {min-height: 516px} }
