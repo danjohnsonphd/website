@@ -1,2 +1,12 @@
-.u-section-1 .u-sheet-1 {min-height: 74px}
-.u-section-1 .u-btn-1 {margin-left: 0; margin-right: 0; background-image: none; border-style: none none solid; margin-bottom: 27px; padding: 0}
+.u-section-1 .u-sheet-1 {
+  min-height: 74px;
+}
+
+.u-section-1 .u-btn-1 {
+  margin-left: 0;
+  margin-right: 0;
+  background-image: none;
+  border-style: none none solid;
+  margin-bottom: 27px;
+  padding: 0;
+}
