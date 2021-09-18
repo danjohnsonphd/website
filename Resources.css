@@ -24,10 +24,18 @@
   margin: -30px 20px 0 auto;
 }
 
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
 .u-section-1 .u-video-2 {
   width: 575px;
   height: 354px;
   margin: 0 -10px 0 auto;
+}
+
+.u-section-1 .embed-responsive-2 {
+  position: absolute;
 }
 
 .u-section-1 .u-layout-cell-2 {

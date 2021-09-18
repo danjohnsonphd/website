@@ -188,6 +188,10 @@
   margin: 0 auto;
 }
 
+.u-section-2-3 .embed-responsive-1 {
+  position: absolute;
+}
+
 @media (max-width: 991px) {
   .u-section-2-3 .u-video-1 {
     width: 720px;
@@ -216,6 +220,10 @@
 
 .u-section-2-4 .u-video-1 {
   width: 800px;
+}
+
+.u-section-2-4 .embed-responsive-1 {
+  position: absolute;
 }
 
 @media (max-width: 991px) {
