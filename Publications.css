@@ -7,7 +7,7 @@
 }
 
 .u-section-1 .u-tabs-1 {
-  min-height: 437px;
+  min-height: 532px;
   margin: 60px auto 0 0;
 }
 
@@ -37,7 +37,7 @@
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 30px;
+  padding: 30px 28px 30px 30px;
 }
 
 .u-section-1 .u-image-1 {
@@ -53,6 +53,7 @@
 }
 
 .u-section-1 .u-btn-1 {
+  background-image: none;
   padding: 0;
 }
 
