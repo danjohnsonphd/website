@@ -34317,6 +34317,7 @@ a.u-link.u-text-hover-grey-90:hover {
 }
 
 .u-footer .u-btn-1 {
+  background-image: none;
   padding: 0;
 }
 
@@ -34331,7 +34332,7 @@ a.u-link.u-text-hover-grey-90:hover {
   object-position: 49.5% 37.84%;
   width: 41px;
   height: 41px;
-  margin: -41px auto 15px 503px;
+  margin: -41px auto -46px 503px;
 }
 @media (max-width: 1199px) {
   .u-footer .u-sheet-1 {
